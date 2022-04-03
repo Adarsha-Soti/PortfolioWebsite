@@ -23,7 +23,7 @@ export default function Card1() {
                   <Divider/>
                   <CardActions disableSpacing>
                       
-                      <a href="https://www.adarshasoti.com.np">
+                      <a href="www.adarshasoti.com.np">
                           <Button size="small">
                               View Live
                           </Button>
@@ -37,20 +37,17 @@ export default function Card1() {
             <CardMedia component="img" alt="project" image="https://i.imgur.com/ZtfRPqu.gif" height="200px" style={{objectFit:"contain"}}/>
               <CardContent style={{paddingBottom:"5px"}}>
                   <Typography gutterBottom variant="h5" component="h2">
-                      
+                  NOT READY YET
                   </Typography>
                   <Divider/>
                   <Typography variant="body2" component="p">
-                          It is an MERN full stack app for my home shop Santosh Sakar Pustak Pasal. I created this website so that our customers can order the book online.
+                  It is an MERN full stack app for my Portfolio.The sole purpose for creating this website Is to apply for Intern and JOB vacancies.
                   </Typography>
                   <Divider/>
                   <CardActions disableSpacing>
-                      
-                      <a href="https://santoshsakar.netlify.app/">
-                          <Button size="small">
+                          <Button size="small" disabled>
                               View Live
                           </Button>
-                      </a>
                   </CardActions>
               </CardContent>
           </Card>
@@ -60,20 +57,19 @@ export default function Card1() {
             <CardMedia component="img" alt="project" image="https://i.imgur.com/ZtfRPqu.gif" height="200px" style={{objectFit:"contain"}}/>
               <CardContent style={{paddingBottom:"5px"}}>
                   <Typography gutterBottom variant="h5" component="h2">
-                      Santosh Sakar Pustak Pasal Website
+                    NOT READY YET
                   </Typography>
                   <Divider/>
                   <Typography variant="body2" component="p">
-                          It is an MERN full stack app for my home shop Santosh Sakar Pustak Pasal. I created this website so that our customers can order the book online.
+                  It is an MERN full stack app for my Portfolio.The sole purpose for creating this website Is to apply for Intern and JOB vacancies.
+                         
                   </Typography>
                   <Divider/>
                   <CardActions disableSpacing>
-                      
-                      <a href="https://santoshsakar.netlify.app/">
-                          <Button size="small">
+                     
+                          <Button size="small" disabled>
                               View Live
                           </Button>
-                      </a>
                   </CardActions>
               </CardContent>
           </Card>
