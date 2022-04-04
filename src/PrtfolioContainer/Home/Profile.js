@@ -52,7 +52,7 @@ export default function Profile() {
                     </Typography>  
                 <div className='profile-options'>
                     <a href='https://www.linkedin.com/in/adarsha-soti-b08158236/' >
-                        <button className='btn primary-btn'>
+                        <button className='btn primary-btn' style={{fontSize:'20px'}}>
                             Hire Me
                         </button>
                         </a>
