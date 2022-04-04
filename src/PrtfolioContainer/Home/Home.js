@@ -9,7 +9,7 @@ import Profile from './Profile'
 
 export default function Home() {
   return (
-    <div className='home-container' >
+    <div className='home-container' style={{backgroundColor:"white"}} >
           <Grid container direction={'column'}>
             <Grid item >
               <Profile/>
