@@ -1,4 +1,4 @@
-import { Grid } from '@mui/material'
+import { Grid, Typography } from '@mui/material'
 import React from 'react'
 import Card1 from '../../Components/HOMEPGE/Card1'
 import Details from '../../Components/HOMEPGE/Details'
@@ -24,6 +24,7 @@ export default function Home() {
             </Grid>
             </Grid>
             <Grid item >
+              <Typography style={{fontFamily:"URW Chancery L, cursive" ,color:'antiquewhite',textAlign:'center',fontSize:'40px'}}>Projects Showcase</Typography>
               <Card1/>
             </Grid>
           </Grid>
