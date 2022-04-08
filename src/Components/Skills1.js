@@ -117,7 +117,7 @@ export default function Skills1() {
                                         </TimelineSeparator>
                                         <TimelineContent>
                                             <Typography variant="body2">
-                                                2014-2016
+                                                2004-2016
                                             </Typography>
                                             <Paper elevation={3} className='timelinePaper' >
                                                 <Typography variant="h6" component="h1">
@@ -138,7 +138,7 @@ export default function Skills1() {
                                         </TimelineSeparator>
                                         <TimelineContent>
                                                 <Typography variant="body2">
-                                                Jan. 2014 - Jan. 2016
+                                                Jan. 2016 - Jan. 2018
                                             </Typography>
                                             <Paper elevation={3} className='timelinePaper'>
                                                 <Typography variant="h6" component="h1">
@@ -159,7 +159,7 @@ export default function Skills1() {
                                         </TimelineSeparator>
                                         <TimelineContent>
                                             <Typography variant="body2">
-                                                July 2016 - present
+                                                July 2018 - present
                                             </Typography>
                                             <Paper elevation={3} className='timelinePaper' >
                                                 <Typography variant="h6" component="h1">
