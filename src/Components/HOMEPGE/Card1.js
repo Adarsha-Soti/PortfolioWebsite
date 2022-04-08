@@ -23,7 +23,7 @@ export default function Card1() {
                   <Divider/>
                   <CardActions disableSpacing>
                       
-                      <a href="www.adarshasoti.com.np">
+                      <a href="https://adarshasoti.com.np/">
                           <Button size="small">
                               View Live
                           </Button>
