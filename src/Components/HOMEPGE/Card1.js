@@ -34,20 +34,22 @@ export default function Card1() {
         </Grid>
         <Grid item xs={12} sm={6} md={4}>
           <Card className="card-container" raised>
-            <CardMedia component="img" alt="project" image="https://i.imgur.com/ZtfRPqu.gif" height="200px" style={{objectFit:"contain"}}/>
+            <CardMedia component="img" alt="project" image="https://i.imgur.com/sNJd6Fl.gif" height="200px" style={{objectFit:"contain"}}/>
               <CardContent style={{paddingBottom:"5px"}}>
                   <Typography gutterBottom variant="h5" component="h2">
-                  NOT READY YET
+                  RESTAURANT MENU APP
                   </Typography>
                   <Divider/>
                   <Typography variant="body2" component="p">
-                  It is an MERN full stack app for my Portfolio.The sole purpose for creating this website Is to apply for Intern and JOB vacancies.
+                  It is a react app for the online menu system.This app is used to order food online.
                   </Typography>
                   <Divider/>
                   <CardActions disableSpacing>
-                          <Button size="small" disabled>
+                        <a href="https://interntaskone.netlify.app/">
+                          <Button size="small">
                               View Live
                           </Button>
+                      </a> 
                   </CardActions>
               </CardContent>
           </Card>
